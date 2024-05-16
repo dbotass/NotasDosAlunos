@@ -1,0 +1,14 @@
+C:\Users\Daniel\Documents\CSharp\LearnigClass\bin\Debug\net8.0\LearnigClass.exe
+C:\Users\Daniel\Documents\CSharp\LearnigClass\bin\Debug\net8.0\LearnigClass.deps.json
+C:\Users\Daniel\Documents\CSharp\LearnigClass\bin\Debug\net8.0\LearnigClass.runtimeconfig.json
+C:\Users\Daniel\Documents\CSharp\LearnigClass\bin\Debug\net8.0\LearnigClass.dll
+C:\Users\Daniel\Documents\CSharp\LearnigClass\bin\Debug\net8.0\LearnigClass.pdb
+C:\Users\Daniel\Documents\CSharp\LearnigClass\obj\Debug\net8.0\LearnigClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Documents\CSharp\LearnigClass\obj\Debug\net8.0\LearnigClass.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\CSharp\LearnigClass\obj\Debug\net8.0\LearnigClass.AssemblyInfo.cs
+C:\Users\Daniel\Documents\CSharp\LearnigClass\obj\Debug\net8.0\LearnigClass.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\CSharp\LearnigClass\obj\Debug\net8.0\LearnigClass.dll
+C:\Users\Daniel\Documents\CSharp\LearnigClass\obj\Debug\net8.0\refint\LearnigClass.dll
+C:\Users\Daniel\Documents\CSharp\LearnigClass\obj\Debug\net8.0\LearnigClass.pdb
+C:\Users\Daniel\Documents\CSharp\LearnigClass\obj\Debug\net8.0\LearnigClass.genruntimeconfig.cache
+C:\Users\Daniel\Documents\CSharp\LearnigClass\obj\Debug\net8.0\ref\LearnigClass.dll
